@@ -25,4 +25,5 @@ Classifier - Haar Cascades
 * The default file where the features are stored is name.npy.
 * Run the Building Face Classifier.ipynb file!
 
+
 Copyright (c) 2020 Pranav-Jain
